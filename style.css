@@ -1,0 +1,31 @@
+
+        /* HOME HEADER */
+#navbar{
+    background-color: #aaa;
+    font-family: 'Playfair Display SC', serif;
+}
+#navbarNav{
+    width: 50%;
+    text-align: center;
+}
+ul{
+    background-color: blanchedalmond;
+    
+}
+
+    /* END HEADER */
+    /* HOME MENU */
+p {
+    margin: 0px 20px;
+}
+
+    /* END MENU */
+    @media (min-width: 767px){
+
+    }
+
+@media (max-width: 767px) {
+    p {
+        margin-left: 60px;
+        margin-right: 60px;
+    }
